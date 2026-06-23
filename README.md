@@ -112,18 +112,6 @@ Hipótese 5: Clientes que compram mais carne também compram mais vinho.
 
 Insights da análise
 
-
-
-
-
-
-
-
-
-
-
-
-
 Resultados
 Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
 
@@ -133,6 +121,8 @@ Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas
 
 Visualize a Análise Completa
 Acess o Link: https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5
+
+Visualize a Apresentacao no PowerPoint:https://github.com/gustavoshelby0/Ifood-campanha-market/blob/main/Relatorio%20de%20Campanha%20do%20iFood.pptx
 
 Próximos passos
 Explorar mais características dos clientes
